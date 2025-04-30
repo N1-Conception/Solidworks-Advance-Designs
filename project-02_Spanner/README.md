@@ -7,9 +7,14 @@ This repository contains a 3D parametric model of a Spanner/Wrench, designed usi
 Project Features
 
 >Fully parametric spanner/wrench design
+
 >Fully defined sketch
+
 >Text engraving: "NI - CONCEPTION"
+
 >Clean edges and chamfered surfaces for manufacturability
+
+
 >Optimized for 3D printing, CNC machining, or simulation
 
 ---
@@ -19,6 +24,7 @@ Author
 Nishchay Sharma
 
 > B.Tech Mechanical Engineering | Lingaya’s Vidyapeeth (Gold Medalist)
+
 Design Engineer |
 
 
