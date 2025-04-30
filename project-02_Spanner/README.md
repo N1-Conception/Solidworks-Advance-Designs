@@ -25,7 +25,7 @@ Nishchay Sharma
 
 > B.Tech Mechanical Engineering | Lingaya’s Vidyapeeth (Gold Medalist)
 
-Design Engineer |
+>Design Engineer |
 
 
 ---
