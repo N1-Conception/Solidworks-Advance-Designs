@@ -61,13 +61,13 @@ solidworks part file
 ## License
 this project is licensed under the MIT license.
 ### Isometric View 1
-![Isometric View-1](part5a.png)
+![Isometric View-1](5a.png)
 
 ### Isometric View 2
-![Isometric View-2](part5b.png)
+![Isometric View-2](5b.png)
 
 ### Section View
-![Section View](part5c.png)
+![Section View](5c.png)
 
 
 
