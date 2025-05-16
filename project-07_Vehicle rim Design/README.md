@@ -62,10 +62,10 @@ solidworks part file
 this project is licensed under the MIT license.
 
 ### Isometric View 
-![Isometric View](7a.png)
+![Isometric View](7aa.png)
 
 ### Front View
-![Front View](7b.png)
+![Front View](7bb.png)
 
 
 
