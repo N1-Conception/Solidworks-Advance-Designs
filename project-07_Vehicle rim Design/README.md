@@ -55,7 +55,7 @@ Nishchay Sharma
 
 ## File Include
 
-- 'project06_nishchay.  SLDPRT' -
+- 'project07_nishchay.  SLDPRT' -
 solidworks part file
 ## License
 
