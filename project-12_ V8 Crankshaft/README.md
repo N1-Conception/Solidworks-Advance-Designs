@@ -26,27 +26,6 @@ This repository features a detailed *SolidWorks model of a V8 engine crankshaft*
 
 ## 🏅 Author
 
-*Nishchay Sharma*  
-Mechanical Engineer | Specializing in Design Engineering  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
-
----
-
-## 📝 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-## ⭐ Show Your Support
-
-If you find this project useful, consider starring ⭐ the repo or sharing it with others in the mechanical and CAD community!
-
-
-
-
-Author-
-
 Nishchay Sharma
 
 >B.Tech Mechanical Engineering
