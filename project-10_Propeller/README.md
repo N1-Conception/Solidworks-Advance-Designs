@@ -9,6 +9,12 @@ This repository contains the 3D CAD model of a *Propeller, designed using **Soli
 
 ---
 
+
+[![Watch the Short](https://img.youtube.com/vi/O_ce39MRtP8/maxresdefault.jpg)](https://youtube.com/shorts/O_ce39MRtP8)
+
+
+
+
 ## 🛠 Software Used
 
 - 💻 *SolidWorks* (Version 2022 or later)
