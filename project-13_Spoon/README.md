@@ -2,9 +2,6 @@
 
 # 🥄 SolidWorks Spoon Design
 
-[![Watch Preview](https://img.youtube.com/vi/U1Sanx6-8f8/0.jpg)](https://youtube.com/shorts/U1Sanx6-8f8?si=KRjf9nTDox9UC8Ux)
-
----
 
 ## 🚀 Project Overview
 
