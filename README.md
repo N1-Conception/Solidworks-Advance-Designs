@@ -35,6 +35,8 @@ Welcome to my *SolidWorks Advanced* repository! This repo showcases my advanced 
 ## 📑 License
 This project is licensed under the MIT License. 
 
+
+
 ## 📧 Contact
 If you have any questions or would like to collaborate, feel free to reach out to me at- nishchaysharma1502@gmail.com .
 
